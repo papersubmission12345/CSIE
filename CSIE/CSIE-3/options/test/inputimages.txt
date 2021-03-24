@@ -1,0 +1,5 @@
+./figs/SPGL/img_001.bmp	./figs/L1EQPD/img_001.bmp	./figs/L1EQPD/img_001.bmp
+./figs/SAMP/img_002.bmp	./figs/SPGL/img_002.bmp	./figs/L1EQPD/img_002.bmp
+./figs/L1EQPD/img_003.bmp	./figs/OMP//img_003.bmp	./figs/OMP//img_003.bmp
+./figs/SAMP/img_004.bmp	./figs/SPGL/img_004.bmp	./figs/L1EQPD/img_004.bmp
+./figs/SAMP/img_005.bmp	./figs/SPGL/img_005.bmp	./figs/L1EQPD/img_005.bmp
