@@ -11,10 +11,10 @@ This repository is the implementation of CSIE-M: Deep learning-based compressive
 - Matlab 
 
 ## Test
-- To calculate the quality score of CS reconstructed image:
+- To calculate the quality score of CS reconstructed images:
 ```
-$ cd CSIE-M/Scorenet/
-$ python test.py -opt ./options/test/testScorenet.json
+$ cd Scorenet/
+$ python testwosaveimage.py -opt ./options/test/testScorenet.json
 ```
 - To enhance the images by MRRN:
 ```
